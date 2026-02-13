@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @quietCoder500
-- 👀 I’m interested in Nextjs and Django
-<!---
-quietCoder500/quietCoder500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @quietCoder500
+- I’m interested web dev and some basic robotics
+- Oh and I love self hosting
+- I wish there were less react apps...
+- ...Instead lets all use htmx or apline ajax...
+- ...if at all possible
