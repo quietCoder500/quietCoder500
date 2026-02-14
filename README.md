@@ -3,4 +3,5 @@
 - Oh and I love self hosting
 - I wish there were less react apps...
 - ...Instead lets all use htmx or apline ajax...
-- ...if at all possible
+- ...if the situation permits
+- I'm gonna try and make a site fit the 14kb rule
